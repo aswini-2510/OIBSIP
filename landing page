@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>FireX - Food Ordering</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to FireX</h1>
+        <p>Your Ultimate Destination for Delicious Food!</p>
+    </header>
+    
+    <section class="features">
+        <div class="feature">
+            <img src="feature1.jpg" alt="Feature 1">
+            <h2>Wide Menu</h2>
+            <p>Explore our diverse menu with a variety of cuisines.</p>
+        </div>
+        <div class="feature">
+            <img src="feature2.jpg" alt="Feature 2">
+            <h2>Easy Ordering</h2>
+            <p>Ordering food has never been this simple and convenient.</p>
+        </div>
+        <div class="feature">
+            <img src="feature3.jpg" alt="Feature 3">
+            <h2>Quick Delivery</h2>
+            <p>Experience fast and reliable delivery right to your doorstep.</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 FireX. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
